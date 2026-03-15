@@ -69,9 +69,9 @@ const clubs = [
 
 const competitions = [
   {
-    placement: 'First Runner-Up',
-    title: "L'Oréal Brandstorm Malaysia",
-    desc: 'Built an AI-powered hair stylist training academy.',
+    placement: 'Hackathon Winner',
+    title: 'Moneylion X ELLM Startup Initiative',
+    desc: 'Built a sustainable clothing app using CLIP embeddings for AI-powered outfit matching.',
   },
   {
     placement: 'Honourable Mention — Top 15',
@@ -79,9 +79,9 @@ const competitions = [
     desc: 'Built an AI-powered investment recommendation app.',
   },
   {
-    placement: 'Hackathon Winner',
-    title: 'Moneylion X ELLM Startup Initiative',
-    desc: 'Built a sustainable clothing app using CLIP embeddings for AI-powered outfit matching.',
+    placement: 'First Runner-Up',
+    title: "L'Oréal Brandstorm Malaysia",
+    desc: 'Built an AI-powered hair stylist training academy.',
   },
 ]
 
