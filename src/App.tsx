@@ -367,6 +367,7 @@ export default function App() {
               <span>
                 <span className="footer-accent">Tay Wei Shen</span> — AI Engineer, Subang Jaya
               </span>
+              <span>Deployed with Cloudflare</span>
             </div>
           </RevealSection>
         </div>
